@@ -1,6 +1,6 @@
-1.Build the Back end server
-2.Setup Express With Express-GraphQL
-3.Create schema file with queries and mutations
-4.Implement JSON-Server
-5.CRUD functionality
-6.Test with Graphiql
+1.Build the Back end server <br/>
+2.Setup Express With Express-GraphQL <br/>
+3.Create schema file with queries and mutations <br/>
+4.Implement JSON-Server <br/>
+5.CRUD functionality <br/>
+6.Test with Graphiql <br/>
